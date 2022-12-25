@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/memtube/static/js/main.1428baf2.js",
+    "main.js": "/memtube/static/js/main.ed8635e3.js",
     "static/media/error-meme.jpg": "/memtube/static/media/error-meme.e1fa7474dd132208f744.jpg",
     "static/media/logo-dark-theme.png": "/memtube/static/media/logo-dark-theme.17efd07974ca11d2383b.png",
     "static/media/logo-light-theme.png": "/memtube/static/media/logo-light-theme.dfecb25ee3c011d4a9d9.png",
@@ -9,9 +9,9 @@
     "index.html": "/memtube/index.html",
     "static/media/new-icon.svg": "/memtube/static/media/new-icon.37158dea352630abcc101d34077e2db4.svg",
     "static/media/moon-icon.svg": "/memtube/static/media/moon-icon.0d4bc14e1d906b5d49f47f5dd0e12497.svg",
-    "main.1428baf2.js.map": "/memtube/static/js/main.1428baf2.js.map"
+    "main.ed8635e3.js.map": "/memtube/static/js/main.ed8635e3.js.map"
   },
   "entrypoints": [
-    "static/js/main.1428baf2.js"
+    "static/js/main.ed8635e3.js"
   ]
 }
